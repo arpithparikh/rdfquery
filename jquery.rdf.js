@@ -6,7 +6,7 @@
  *
  * Depends:
  *  jquery.uri.js
- *  jquery.xmlns.js
+ *  jquery.xmlns.js1
  *  jquery.datatype.js
  *  jquery.curie.js
  *  jquery.json.js
